@@ -21,6 +21,7 @@
   <application>
     <activity
         android:name=".DexterActivity"
+        android:exported="false"
         android:theme="@style/Dexter.Internal.Theme.Transparent"
         />
   </application>
